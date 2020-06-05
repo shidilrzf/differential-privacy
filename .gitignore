@@ -1,3 +1,15 @@
+.ipynb_checkpoints/
+results/
+todo.txt
+data/
+models/
+output/
+runs/
+logs/
+*.pkl
+*.pt
+*.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
